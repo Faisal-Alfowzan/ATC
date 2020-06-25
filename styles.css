@@ -1,0 +1,27 @@
+
+.int_fact{
+    font-style:italic;
+}
+span{
+    font-weight: bold;
+    
+}
+ul{
+    list-style:none;
+    position: relative;
+    left: -40px;
+}
+.small_container{
+    border:1px solid lightgrey;
+    width:266px;
+    padding: 16px;
+    border-spacing: 16px;
+}
+.large_container{
+    width:300px;
+    border:1px solid lightgrey;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    background-color: lightsteelblue;
+}
